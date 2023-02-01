@@ -23,7 +23,9 @@ function botReply(message) {
     nanya: 'Boleh, mau nanya apa?',
     buah: 'Aku suka buah melon :D',
     pacar: 'Udah dong :p',
-    bye: 'Sampai jumpa kembali!',
+    bye: 'bye',
+    bodoh: 'Namanya aja STUPID BOT !',
+    pinter: 'hehehe',
     suputra: 'kenal dong. dia orang paling ganteng sedunia ',
   };
   let words = message.split(' ');
