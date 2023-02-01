@@ -1,4 +1,4 @@
-# Gabut doang
+# Chat Bot
 
 Bot yang sangat bodoh :D
 
